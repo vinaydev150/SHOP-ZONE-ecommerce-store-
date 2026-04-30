@@ -1,6 +1,6 @@
 # E-Commerce Store
 
-A full-stack e-commerce application built with **Spring Boot 4.0** (backend) and **React + Vite** (frontend). Features JWT-based authentication, product browsing, shopping cart, and order management.
+Hello ,this is Vinay D and ive built A full-stack e-commerce application built with **Spring Boot 4.0** (backend) and **React + Vite** (frontend). Features JWT-based authentication, product browsing, shopping cart, and order management.
 
 ## 📁 Project Structure
 
